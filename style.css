@@ -1,0 +1,36 @@
+html, body {
+    font-family: 'montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.navbar-logo-img {
+    width: 50px;
+    height: auto;
+}   
+
+
+.btn, .btn-info, .btn-lg {
+    border-radius: 20em;
+    background-image: none;
+    background-color: #842606 !important;
+    color: white;
+    font-family: 'montserrat', sans-serif;
+    }
+
+.btn-nav {
+    margin-top: 1rem;
+       }
+
+       .btn-send {
+    margin-bottom: 1rem;
+       }
+       
+.btn:hover, .btn-info:hover, .btn-lg:hover {
+    background-image: none;
+    font-weight: 900;
+}
+
+
+
+
+
